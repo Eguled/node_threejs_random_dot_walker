@@ -1,0 +1,17 @@
+{
+  "name": "random_dot_walker",
+  "version": "1.0.0",
+  "description": "Random dot walker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Isaiah S.",
+  "license": "ISC",
+  "dependencies": {
+    "angular": "^1.5.0",
+    "angularjs": "0.0.1",
+    "express": "^4.13.4",
+    "three": "^0.73.2"
+  }
+}
